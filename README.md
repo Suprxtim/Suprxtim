@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 CSE (AIML) student  <br>💻 Learning DSA and Backend Development (Python)  <br>🚀 Interested in AI, startups, and building useful projects  <br>🤝 Open to collaboration and learning opportunities<br>
+👨‍🎓 CSE (AIML) student  <br>💻 Learning DSA and Fullstack Development  <br>🚀 Interested in AI, startups, and building useful projects  <br>🤝 Open to collaboration and learning opportunities<br>
 
 
 # 💻 Tech Stack:
